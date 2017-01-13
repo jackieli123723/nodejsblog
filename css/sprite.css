@@ -1,0 +1,276 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-app-del {
+  background-image: url(sprite.png);
+  background-position: -1262px -312px;
+  width: 16px;
+  height: 16px;
+}
+.icon-app-edit {
+  background-image: url(sprite.png);
+  background-position: -1246px -312px;
+  width: 16px;
+  height: 16px;
+}
+.icon-app-look {
+  background-image: url(sprite.png);
+  background-position: -1230px -312px;
+  width: 16px;
+  height: 16px;
+}
+.icon-app-sure-del {
+  background-image: url(sprite.png);
+  background-position: -1144px -392px;
+  width: 28px;
+  height: 32px;
+}
+.icon-app-top-shadow {
+  background-image: url(sprite.png);
+  background-position: -1146px -334px;
+  width: 6px;
+  height: 18px;
+}
+.icon-arrow-left {
+  background-image: url(sprite.png);
+  background-position: -1172px -392px;
+  width: 28px;
+  height: 28px;
+}
+.icon-confirm-del-bg {
+  background-image: url(sprite.png);
+  background-position: -225px -312px;
+  width: 309px;
+  height: 139px;
+}
+.icon-game {
+  background-image: url(sprite.png);
+  background-position: 0px -312px;
+  width: 225px;
+  height: 265px;
+}
+.icon-android-tab-h {
+  background-image: url(sprite.png);
+  background-position: -74px -577px;
+  width: 72px;
+  height: 72px;
+}
+.icon-android-tab {
+  background-image: url(sprite.png);
+  background-position: -218px -577px;
+  width: 72px;
+  height: 72px;
+}
+.icon-bg {
+  background-image: url(sprite.png);
+  background-position: 0px -649px;
+  width: 20px;
+  height: 210px;
+}
+.icon-haoran-icon {
+  background-image: url(sprite.png);
+  background-position: -1248px -392px;
+  width: 24px;
+  height: 26px;
+}
+.icon-history-android-h {
+  background-image: url(sprite.png);
+  background-position: -534px -312px;
+  width: 306px;
+  height: 40px;
+}
+.icon-history-android {
+  background-image: url(sprite.png);
+  background-position: -840px -392px;
+  width: 304px;
+  height: 40px;
+}
+.icon-history-bg {
+  background-image: url(sprite.png);
+  background-position: -225px -507px;
+  width: 960px;
+  height: 1px;
+}
+.icon-history-ios-h {
+  background-image: url(sprite.png);
+  background-position: -840px -312px;
+  width: 306px;
+  height: 40px;
+}
+.icon-history-ios {
+  background-image: url(sprite.png);
+  background-position: -534px -352px;
+  width: 306px;
+  height: 40px;
+}
+.icon-history-unity-h {
+  background-image: url(sprite.png);
+  background-position: -840px -352px;
+  width: 306px;
+  height: 40px;
+}
+.icon-history-unity {
+  background-image: url(sprite.png);
+  background-position: -534px -392px;
+  width: 306px;
+  height: 40px;
+}
+.icon-ios-tab-h {
+  background-image: url(sprite.png);
+  background-position: -290px -577px;
+  width: 72px;
+  height: 72px;
+}
+.icon-ios-tab {
+  background-image: url(sprite.png);
+  background-position: -146px -577px;
+  width: 72px;
+  height: 72px;
+}
+.icon-logo {
+  background-image: url(sprite.png);
+  background-position: -225px -451px;
+  width: 213px;
+  height: 56px;
+}
+.icon-longyuan-icon {
+  background-image: url(sprite.png);
+  background-position: -1224px -392px;
+  width: 24px;
+  height: 26px;
+}
+.icon-new {
+  background-image: url(sprite.png);
+  background-position: -1272px -392px;
+  width: 20px;
+  height: 24px;
+}
+.icon-newplayers_72 {
+  background-image: url(sprite.png);
+  background-position: -1207px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-out {
+  background-image: url(sprite.png);
+  background-position: -1297px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-page-next-h {
+  background-image: url(sprite.png);
+  background-position: -1318px -392px;
+  width: 13px;
+  height: 24px;
+}
+.icon-page-next {
+  background-image: url(sprite.png);
+  background-position: -1292px -392px;
+  width: 13px;
+  height: 24px;
+}
+.icon-page-prve-h {
+  background-image: url(sprite.png);
+  background-position: -1305px -392px;
+  width: 13px;
+  height: 24px;
+}
+.icon-page-prve {
+  background-image: url(sprite.png);
+  background-position: -1331px -392px;
+  width: 13px;
+  height: 24px;
+}
+.icon-person {
+  background-image: url(sprite.png);
+  background-position: -1146px -352px;
+  width: 31px;
+  height: 30px;
+}
+.icon-search-del {
+  background-image: url(sprite.png);
+  background-position: -1210px -312px;
+  width: 20px;
+  height: 20px;
+}
+.icon-search {
+  background-image: url(sprite.png);
+  background-position: -1189px -312px;
+  width: 21px;
+  height: 20px;
+}
+.icon-table-del-h {
+  background-image: url(sprite.png);
+  background-position: -1237px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-table-del {
+  background-image: url(sprite.png);
+  background-position: -1267px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-table-edit-h {
+  background-image: url(sprite.png);
+  background-position: -1177px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-table-edit {
+  background-image: url(sprite.png);
+  background-position: -1327px -352px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tit {
+  background-image: url(sprite.png);
+  background-position: -1146px -312px;
+  width: 43px;
+  height: 22px;
+}
+.icon-tongji-icon {
+  background-image: url(sprite.png);
+  background-position: -1200px -392px;
+  width: 24px;
+  height: 26px;
+}
+.icon-totop {
+  background-image: url(sprite.png);
+  background-position: -438px -451px;
+  width: 48px;
+  height: 48px;
+}
+.icon-unity-tab-h {
+  background-image: url(sprite.png);
+  background-position: -362px -577px;
+  width: 72px;
+  height: 72px;
+}
+.icon-unity-tab {
+  background-image: url(sprite.png);
+  background-position: 0px -577px;
+  width: 74px;
+  height: 72px;
+}
+.icon-spritesheet {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 1360px;
+  height: 312px;
+}

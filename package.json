@@ -1,0 +1,14 @@
+{
+  "name" : "myblog",
+  "version" : "0.0.1",
+  "description" : "a simple blog",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.7.2"
+  }
+}
